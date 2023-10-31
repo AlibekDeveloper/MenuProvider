@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MenuProvider</string>
+    <string name="cold">Cold</string>
+    <string name="alarm">Alarm</string>
+    <string name="chat">Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bank">Bank</string>
+    <string name="android">Android</string>
+    <string name="alarm_fragment">Alarm Fragment</string>
+    <string name="mainfragment">MainFragment</string>
+</resources>
